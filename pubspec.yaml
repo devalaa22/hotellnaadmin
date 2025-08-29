@@ -1,0 +1,59 @@
+name: edarhalfnadig
+description: "A new Flutter project."
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.0.0
+  flutter_bloc: ^9.1.1
+  firebase_messaging: ^16.0.0
+  http: ^1.5.0
+  flutter_local_notifications: ^19.4.1
+  cached_network_image_builder: ^0.3.0
+  font_awesome_flutter: 10.10.0
+  shared_preferences: ^2.5.3
+  cloud_firestore: ^6.0.0
+  url_launcher: ^6.3.2
+  smooth_star_rating_nsafe: ^1.0.0+1
+  carousel_slider: ^5.1.1
+  image_picker: ^1.2.0
+  firebase_storage: ^13.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+   
+  fonts:
+    - family: Iconly-Broken
+      fonts:
+        - asset: assets/fonts/icons.ttf
+    - family: Ibm   
+      fonts: 
+        - asset: assets/fonts/ibm.ttf

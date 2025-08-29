@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "886916492439",
+    "project_id": "hotella-c439e",
+    "storage_bucket": "hotella-c439e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886916492439:android:f37224aac0312b2cbd0dd2",
+        "android_client_info": {
+          "package_name": "admin.hotellna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyT1nxMYv2ZegGIint4ZLlc_6o4nI7HZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886916492439-0goqkh21v8q69h4lhul1v0kuesnfcugd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novel.hotellaadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886916492439:android:4a0a94c6078699b9bd0dd2",
+        "android_client_info": {
+          "package_name": "com.novel.hotellnaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyT1nxMYv2ZegGIint4ZLlc_6o4nI7HZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886916492439-0goqkh21v8q69h4lhul1v0kuesnfcugd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novel.hotellaadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886916492439:android:802e1c08406f4e77bd0dd2",
+        "android_client_info": {
+          "package_name": "com.novel.hotellnaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyT1nxMYv2ZegGIint4ZLlc_6o4nI7HZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886916492439-0goqkh21v8q69h4lhul1v0kuesnfcugd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novel.hotellaadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886916492439:android:24d284a0e269ee45bd0dd2",
+        "android_client_info": {
+          "package_name": "com.novel.hotellnaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyT1nxMYv2ZegGIint4ZLlc_6o4nI7HZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886916492439-mkmcb4auicf173er0mktpl57ecbsan9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886916492439-0goqkh21v8q69h4lhul1v0kuesnfcugd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novel.hotellaadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
