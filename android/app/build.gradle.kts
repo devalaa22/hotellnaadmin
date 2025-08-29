@@ -33,13 +33,26 @@ android {
         multiDexEnabled = true
     }
 
-    buildTypes {
-        release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig = signingConfigs.getByName("debug")
-        }
+      signingConfigs {
+    create("release") {
+        storeFile = file("C:\\Users\\momf\\fnoon\\android\\app\\AymanAltairi.jks")
+        storePassword = "AymanAltairi"  // كلمة مرور keystore
+        keyAlias = "AymanAltairi"  // اسم alias الخاص بالمفتاح
+        keyPassword = "AymanAltairi"  // كلمة مرور المفتاح
     }
+}
+
+buildTypes {
+    getByName("release") {
+        signingConfig = signingConfigs.getByName("release")
+        isMinifyEnabled = true  // لتقليص الكود
+        isShrinkResources = true  // لتقليص الموارد
+        proguardFiles(
+            getDefaultProguardFile("proguard-android-optimize.txt"),
+            "proguard-rules.pro"
+        )
+    }
+}
 }
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.10")
